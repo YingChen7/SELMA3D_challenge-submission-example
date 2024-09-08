@@ -1,4 +1,4 @@
-# This an example for building the container image of the algorithm for SELMA3D challenge
+# This an example for building a container image of your algorithm for the Preliminary Test Phase of SELMA3D challenge
 
 ### Step 1: Implement your solution  
 * In [requirements.txt](requirements.txt), list the packages required for your solution.
