@@ -6,7 +6,7 @@ set -e
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
 # Set default container name
-container_tag="example-algorithm-preliminary-test-phase"
+container_tag="example-algorithm-final-test-phase"
 
 # Check if an argument is provided
 if [ "$#" -eq 1 ]; then

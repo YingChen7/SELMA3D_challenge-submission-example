@@ -1,4 +1,4 @@
-# This an example for building the container image of the algorithm for SELMA3D challenge
+# This an example for building a container image of your algorithm for the final test phrase of SELMA3D challenge
 
 ### Step 1: Implement your solution  
 * In [requirements.txt](requirements.txt), list the packages required for your solution.
@@ -28,7 +28,7 @@
 *  Call the [save](save.sh) bash script using the command:
         ```./save.sh```
 
-   This will create a container image of the algorithm for SELMA3D challenge.
+   This will create a container image of your algorithm for SELMA3D challenge.
 ### Step 4 : Use the github repo for Grand Challenge submission (optional) 
 *  Fork this repository to a new repository under your GitHub account.
 *  In your repository, complete Step 1 and Step 2 to implement and test your solution.
