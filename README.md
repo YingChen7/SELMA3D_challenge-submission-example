@@ -1,5 +1,6 @@
 # This an example for building a container image of your algorithm for the Final Test Phase of SELMA3D challenge
 
+Similar to the one for the [Preliminary Test Phase](https://github.com/YingChen7/SELMA3D_challenge-submission-example)
 ### Step 1: Implement your solution  
 * In [requirements.txt](requirements.txt), list the packages required for your solution.
 * In [inference.py](inference.py), `load_image_file_as_array` function will automatically load the testing image once you submit your algorithm container. Do not change the [image reading](inference.py#L33) and [saving](inference.py#L47) parts.
